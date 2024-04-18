@@ -1,5 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
-
+# Ex.No:1a  Study of Socket Programming
+Name:R.Sabarinath
+Register No:212223100048
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
